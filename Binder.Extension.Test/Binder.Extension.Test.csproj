@@ -11,9 +11,6 @@
     <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Binder.Extension\Binder.Extension.csproj" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="TestAssets" />
   </ItemGroup>
   <ItemGroup>
